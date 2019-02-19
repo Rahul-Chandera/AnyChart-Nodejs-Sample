@@ -1,5 +1,5 @@
-#!/usr/bin/env node
-let handler = require('./app.js');
+
+let handler = require('./handler.js');
 
 handler.handler({}, {}, (error, data) => {
   console.log(data);

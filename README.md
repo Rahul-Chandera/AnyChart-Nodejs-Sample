@@ -17,6 +17,6 @@ How to run this sample in your local machine:
 
 Reference:
 -
-https://www.npmjs.com/package/anychart-nodejs
-https://docs.anychart.com/Quick_Start/Quick_Start
+- https://www.npmjs.com/package/anychart-nodejs
+- https://docs.anychart.com/Quick_Start/Quick_Start
 
